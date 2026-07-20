@@ -10,6 +10,9 @@ header {
   background-color: #f7c6d4;
   padding: 15px;
   font-weight: bold;
+  width: 80%;
+  margin: 30px auto;
+  text align: center;
 }
 
 nav a {
