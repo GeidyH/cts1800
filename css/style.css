@@ -12,6 +12,7 @@ header {
   width: 80%;
   font-weight: bold;
   text-align: center;
+  margin: 10px;
 }
 
 nav a {
