@@ -100,9 +100,15 @@ input[type="submit"]:hover {
   color: white;
 }
 
+header, main {
+  width: 97%;
+  margin: 10px auto;
+  box-sizing: border-box;
+}
+
 footer {
   padding: 15px;
   width: 40%;
-  margin: 30px auto;
+  margin: 40px auto;
   text-align: center;
 }
