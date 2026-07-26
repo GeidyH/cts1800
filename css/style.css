@@ -6,17 +6,11 @@ body {
   text-align: center;
 }
 
-header, main {
-  width: 97%;
-  box-sizing: border-box;
-}
-
 header {
   background-color: #f7c6d4;
   padding: 30px;
   font-weight: bold;
   text-align: center;
-  box-sizing: border-box;
 }
 
 nav a {
