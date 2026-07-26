@@ -66,6 +66,10 @@ main {
   margin-left: 0;
 }
 
+.cat-tail {
+  display: flex;
+}
+
 .casta-cat {
   display: block;
   width: 500px;
@@ -76,7 +80,7 @@ main {
 
 .social-links img {
   width: 20px;
-  height: 20px:
+  height: 20px;
   margin-right: 10px;
 }
 
