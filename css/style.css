@@ -40,7 +40,7 @@ main {
 .home-image {
   background-image: url("../images/side_cat.jpg");
   background-size: cover;
-  background-position: left;
+  background-position: center;
 }
 
 .corner-cat {
@@ -48,6 +48,7 @@ main {
   width: 389px;
   height: 260px;
   margin-top: 80px;
+  margin-left: 0;
 }
 
 .social-links img {
