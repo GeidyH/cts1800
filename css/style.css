@@ -7,7 +7,7 @@ body {
 }
 
 header, main {
-  width: 95%;
+  width: 97%;
   box-sizing: border-box;
 }
 
@@ -16,6 +16,7 @@ header {
   padding: 30px;
   font-weight: bold;
   text-align: center;
+  box-sizing: border-box;
 }
 
 nav a {
