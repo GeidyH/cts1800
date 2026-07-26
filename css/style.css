@@ -100,7 +100,7 @@ input[type="submit"]:hover {
   color: white;
 }
 
-.home_image {
+.home-image {
   background-image: url("../images/cat_picking.jpg");
   background-size: cover;
   background-position: center;
