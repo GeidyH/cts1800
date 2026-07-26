@@ -33,6 +33,13 @@ main {
   box-sizing: border-box;
 }
 
+.home-image {
+  background-image: url("../images/cat_picking.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+}
+
 p {
   width: 80%;
   margin: 20px auto;
@@ -100,12 +107,6 @@ input[type="submit"]:hover {
   color: white;
 }
 
-.home-image {
-  background-image: url("../images/cat_picking.jpg");
-  background-size: cover;
-  background-position: center;
-  min-height: 400px;
-}
 
 .social-links img {
   width: 25px;
