@@ -61,6 +61,12 @@ main {
   background-position: center;
 }
 
+.contact-image {
+  background-image: url("../images/small_paws_clear.png");
+  background-size: cover;
+  background-position: left;
+}
+
 .corner-cat {
   display: block;
   width: 389px;
