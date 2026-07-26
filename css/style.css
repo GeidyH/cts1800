@@ -39,7 +39,7 @@ main {
 
 .text-box {
   background-color: white;
-  padding: 5px;
+  padding-left: 10px;
   width: 900px;
   margin-left: 50px;
 }
