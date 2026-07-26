@@ -38,7 +38,7 @@ main {
 }
 
 .home-image {
-  background-image: url("../images/cat_picking.jpg");
+  background-image: url("../images/cat_home.jpg");
   background-size: cover;
   background-position: center;
   min-height: 400px;
