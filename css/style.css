@@ -78,6 +78,7 @@ main {
   display: block;
   width: 684px;
   height: 360px;
+  margin: 0;
 }
 
 .social-links img {
