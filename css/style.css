@@ -28,13 +28,14 @@ nav a:hover {
 
 main {
   background-color: white;
-  padding: 30px;
+  padding: 50px;
   text-align: center;
   margin: 5px auto;
 }
 
 p {
   line-height: 1.5;
+  text-aligned: left;
   
 }
 
