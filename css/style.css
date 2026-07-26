@@ -53,8 +53,8 @@ main {
 
 .contact-image {
   background-image: url("../images/small_paws_bnlk.png");
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: center bottom;
   background-repeat: no-repeat;
 }
 
