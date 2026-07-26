@@ -68,6 +68,7 @@ main {
 
 .cat-tail {
   display: flex;
+  align-items: center;
 }
 
 .casta-cat {
