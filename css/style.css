@@ -51,7 +51,7 @@ main {
 
 .adopt-image {
   background-image: url("../images/cat_tail.jpeg");
-  background-size: cover;
+  background-size: 50%;
   background-position: left;
 }
 
