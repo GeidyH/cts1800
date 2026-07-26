@@ -9,7 +9,6 @@ body {
 header {
   background-color: #f7c6d4;
   padding: 30px;
-  width: 90%;
   font-weight: bold;
   text-align: center;
   margin: 5px auto;
@@ -30,7 +29,6 @@ nav a:hover {
 main {
   background-color: white;
   padding: 30px;
-  width: 90%;
   text-align: center;
   margin: 5px auto;
 }
@@ -41,14 +39,14 @@ p {
 }
 
 ul, ol {
-  width: 70%;
+  width: 65%;
   margin: 20px auto;
-  text-align: center;
+  text-align: left;
 }
 
 li {
   margin: 10px;
-  text-align: left;
+  padding-left: 10px;
 }
 
 a {
