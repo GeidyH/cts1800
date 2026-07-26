@@ -47,7 +47,7 @@ main {
 .about-image {
   background-image: url("../images/background_paw.jpeg");
   background-size: 50%;
-  background-position: center;
+  background-position: center bottom;
   background-repeat: no-repeat;
 }
 
