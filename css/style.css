@@ -45,7 +45,7 @@ main {
 
 .about-image {
   background-image: url("../images/background_paw.jpeg");
-  background-size: cover;
+  background-size: 50%;
   background-position: center;
 }
 
@@ -57,12 +57,12 @@ main {
 
 .volunteer-image {
   background-image: url("../images/cat_paws.png");
-  background-size: cover;
+  background-size: 50%;
   background-position: center;
 }
 
 .contact-image {
-  background-image: url("../images/small_paws_c.png");
+  background-image: url("../images/small_paws_blk.png");
   background-size: cover;
   background-position: left;
 }
