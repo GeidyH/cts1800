@@ -40,7 +40,8 @@ main {
 .text-box {
   background-color: white;
   border: 1px dotted black;
-  padding: 40px;
+  padding: 5px;
+  width: 500px;
 }
 
 .home-image {
