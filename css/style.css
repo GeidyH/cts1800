@@ -39,8 +39,8 @@ main {
 
 .home-image {
   background-image: url("../images/home_cat.jpg");
-  background-size: cover;
-  background-position: center;
+  background-size: width="443" height="660";
+  background-position: left;
 }
 
 .corner-cat {
