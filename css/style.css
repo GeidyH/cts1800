@@ -41,30 +41,35 @@ main {
   background-image: url("../images/side_cat.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .about-image {
   background-image: url("../images/background_paw.jpeg");
   background-size: 50%;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .adopt-image {
   background-image: url("../images/cat_tail.jpeg");
   background-size: 50%;
   background-position: left;
+  background-repeat: no-repeat;
 }
 
 .volunteer-image {
   background-image: url("../images/cat_paw.png");
   background-size: 50%;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .contact-image {
   background-image: url("../images/small_paws_blk.png");
   background-size: cover;
   background-position: left;
+  background-repeat: no-repeat;
 }
 
 .corner-cat {
