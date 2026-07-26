@@ -51,14 +51,6 @@ main {
   background-repeat: no-repeat;
 }
 
-.adopt-image {
-  background-image: url("../images/cat_tail.jpeg");
-  background-size: 50%;
-  background-position: left;
-  background-repeat: no-repeat;
-  min-height: 500px;
-}
-
 .volunteer-image {
   background-image: url("../images/cat_paw.png");
   background-size: 50%;
@@ -80,6 +72,14 @@ main {
   height: 260px;
   margin-top: 80px;
   margin-left: 0;
+}
+
+.casta-cat {
+  display: block;
+  width: 900px;
+  height: 1200px;
+  margin-top: 66px;
+  margin-left: auto;
 }
 
 .social-links img {
