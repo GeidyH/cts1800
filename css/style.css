@@ -7,7 +7,7 @@ body {
 }
 
 header, main {
-  width: 95;
+  width: 95%;
   box-sizing: border-box;
 }
 
