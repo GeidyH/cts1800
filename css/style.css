@@ -61,7 +61,7 @@ main {
 .contact-image {
   background-image: url("../images/small_paws_bnlk.png");
   background-size: contain;
-  background-position: center bottom;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
