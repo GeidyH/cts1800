@@ -40,6 +40,14 @@ main {
   min-height: 400px;
 }
 
+.corner-cat {
+  display: block;
+  width: 389px;
+  height: 260px;
+  margin-top: 30px;
+  margin-left: auto;
+}
+
 .social-links img {
   width: 25px;
   height: 25px:
