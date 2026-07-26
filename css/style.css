@@ -38,10 +38,9 @@ main {
 }
 
 .home-image {
-  background-image: url("../images/cat_home.jpg");
+  background-image: url("../images/home_cat.jpg");
   background-size: cover;
   background-position: center;
-  min-height: 400px;
 }
 
 .corner-cat {
