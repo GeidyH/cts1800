@@ -38,7 +38,7 @@ main {
 }
 
 .home-image {
-  background-image: url("../images/home_cat.jpg");
+  background-image: url("../images/side_cat.jpg");
   background-size: 50%;
   background-position: left;
 }
