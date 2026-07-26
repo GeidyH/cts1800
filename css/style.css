@@ -66,11 +66,6 @@ main {
   margin-left: 0;
 }
 
-.cat-tail {
-  display: flex;
-  align-items: center;
-}
-
 .casta-cat {
   display: block;
   width: 500px;
