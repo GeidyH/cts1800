@@ -6,6 +6,11 @@ body {
   text-align: center;
 }
 
+header, main {
+  width: 95;
+  box-sizing: border-box;
+}
+
 header {
   background-color: #f7c6d4;
   padding: 30px;
