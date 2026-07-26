@@ -28,11 +28,11 @@ nav a:hover {
 }
 
 main {
-  width: 90%;
-  padding: 30px;
-  margin: 5px auto;
   background-color: white;
+  padding: 30px;
+  width: 90%;
   text-align: center;
+  margin: 5px auto;
 }
 
 p {
