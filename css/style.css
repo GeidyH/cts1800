@@ -101,8 +101,6 @@ input[type="submit"]:hover {
 }
 
 header, main {
-  width: 99%;
-  margin: 5px auto;
   box-sizing: border-box;
 }
 
