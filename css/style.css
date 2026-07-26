@@ -30,6 +30,53 @@ main {
   text-align: center;
 }
 
+a {
+  color: #000dff;
+}
+
+a:hover {
+  color: #d66b8f;
+}
+
+form {
+  width: 60%;
+  margin: 20px auto;
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid black;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+input[type="range"] {
+  accent-color: #d66b8f;
+  width: 80%;
+}
+
+input[type="submit"] {
+  background-color: #6b3e26;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+  background-color: #d66b8f;
+  color: white;
+}
+
 footer {
   padding: 15px;
   width: 80%;
