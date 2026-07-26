@@ -39,7 +39,7 @@ main {
 
 .home-image {
   background-image: url("../images/home_cat.jpg");
-  background-size: width="443" height="660";
+  background-size: 443px 660px;
   background-position: left;
 }
 
