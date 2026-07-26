@@ -8,7 +8,7 @@
 
 <body>
   <header>
-      <h1>Contact Us</h1>
+      <h1> Contact Us </h1>
 
       <nav>
         <a href="index.html">Home</a>  |
@@ -20,8 +20,55 @@
   </header>
 
   <main>
-      <h2>How To Reach Us</h2>
+      <h2>♥ How To Reach Us ♥</h2>
 
+      <p>
+          We would love to hear from you! Whether you have questions about
+          adoption, volunteering, or helping cats in need, feel free to reach out
+          to our team.
+      </p>
+
+      <h3>Contact Information</h3>
+
+      <ul>
+        <li>Email: contact@pawscatrescue.org</li>
+        <li>Phone: (555) 098-PAWS or (555) 098-7297</li>
+      </ul>
+
+      <h3>Hours</h3>
+
+      <ul>
+          <li>Monday - Friday: 10:00 AM - 6:00 PM</li>
+          <li>Saturday: 9:00 AM - 4:00 PM</li>
+          <li>Sunday: 10:00 AM - 4:00 PM</li>
+      </ul>
+
+      <h3>Request an Adoption Application</h3>
+
+      <p>
+          Ready to welcome a new furry friend into your home? Fill out the form below
+          to request an adoption application. Our team will send the application to
+          your email and help guide you through the adoption process.
+      </p>
+
+      <form method="post" action="https://webdevbasics.net/scripts/demo.php">
+        
+        <label for="myName">*Name:</label>
+        <input type="text" name="myName" id="myName" required placeholder="Your first name and last name">
+        
+        <label for="myEmail">*E-mail:</label>
+        <input type="email" name="myEmail" id="myEmail" required placeholder="you@yourdomain.com">
+        
+        <label for="myCats">Number of cats you would like to adopt:</label>
+        <input type="range" name="myCats" id="myCats" min="1" max="5" value="1"
+        oninput="catNumber.value = myCats.value">
+        <output id="catNumber">1</output>
+        
+        <label for="myCatNames">*Name(s) of the cat(s) you are interested in:</label>
+        <textarea name="myCatNames" id="myCatNames" rows="2" cols="20" required placeholder="Example: Mimi, Zeus, Luna"></textarea>
+        
+        <input type="submit" value="Submit">
+      </form>
 
   </main>
   
