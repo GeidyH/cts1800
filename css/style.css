@@ -73,7 +73,7 @@ label {
   font-weight: bold;
 }
 
-input:not([type="range"]), textarea {
+input, textarea {
   width: 100%;
   padding: 10px;
   margin-top: 5px;
@@ -85,6 +85,7 @@ input:not([type="range"]), textarea {
 input[type="range"] {
   accent-color: #d66b8f;
   width: 100%;
+  cursor: pointer;
 }
 
 input[type="submit"] {
