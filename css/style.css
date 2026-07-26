@@ -100,10 +100,6 @@ input[type="submit"]:hover {
   color: white;
 }
 
-header, main {
-  box-sizing: border-box;
-}
-
 footer {
   padding: 15px;
   width: 30%;
