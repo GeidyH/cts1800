@@ -28,18 +28,22 @@ nav a:hover {
 
 main {
   background-color: white;
-  padding: 50px;
+  padding: 30px;
   text-align: center;
   margin: 5px auto;
+  box-sizing: border-box;
 }
 
 p {
+  width: 70%;
+  margin: 20px auto;
+  text-align: left;
   line-height: 1.5;
   
 }
 
 ul, ol {
-  width: 60%;
+  width: 50%;
   margin: 20px auto;
   text-align: left;
 }
