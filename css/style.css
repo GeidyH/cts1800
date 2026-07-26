@@ -43,6 +43,24 @@ main {
   background-position: center;
 }
 
+.about-image {
+  background-image: url("../images/background_paw.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.adopt-image {
+  background-image: url("../images/cat_tail.jpeg");
+  background-size: cover;
+  background-position: left;
+}
+
+.volunteer-image {
+  background-image: url("../images/cat_paws.png");
+  background-size: cover;
+  background-position: center;
+}
+
 .corner-cat {
   display: block;
   width: 389px;
