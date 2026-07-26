@@ -100,6 +100,13 @@ input[type="submit"]:hover {
   color: white;
 }
 
+.home_picture {
+  background-image: url("../images/cat_picking.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+}
+
 .social-links img {
   width: 25px;
   height: 25px:
