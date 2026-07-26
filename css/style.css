@@ -74,6 +74,12 @@ main {
   margin-left: auto;
 }
 
+.tail {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
 .social-links img {
   width: 20px;
   height: 20px:
