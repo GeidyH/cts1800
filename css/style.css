@@ -58,6 +58,14 @@ main {
   background-repeat: no-repeat;
 }
 
+.corner-cat {
+  display: block;
+  width: 389px;
+  height: 260px;
+  margin-top: 80px;
+  margin-left: 0;
+}
+
 .casta-cat {
   display: block;
   width: 500px;
