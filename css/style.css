@@ -40,8 +40,9 @@ main {
 .text-box {
   background-color: white;
   padding-left: 30px;
-  width: 800px;
-  margin-left: 70px;
+  width: 850px;
+  margin-left: 60px;
+  border-radius: 20px;
 }
 
 .home-image {
@@ -59,7 +60,7 @@ main {
 }
 
 .contact-image {
-  background-image: url("../images/small_paws_bnlk.png");
+  background-image: url("../images/small_paws_b.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
